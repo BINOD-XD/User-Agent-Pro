@@ -2,7 +2,7 @@
 
 A user agent is a relatively short bit of text that (attempts to) describe the Software/Browser (the "Agent") that is making the request to a website. Web browsers include the user agent string in the requests they make to websites. The User Agent often includes descriptions of the Operating System and Device Type that the Browser/Agent is running on.
 
-### This User-Agent Script Is For Facebook Clonning Update.
+### This User-Agent Tool Is For Facebook Clonning Update.
 
 ### How to install  ?
 
