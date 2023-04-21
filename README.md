@@ -22,7 +22,7 @@ git clone --depth 1 https://github.com/BINOD-XD/User-Agent
 ### How to use User-Agent
 
 ```
-cd User-Agent
+cd User-Agent-Pro
 ```
 ```
 ls
