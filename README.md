@@ -16,7 +16,7 @@ pkg upgrade
 pkg install git -y
 ```
 ```
-git clone --depth 1 https://github.com/BINOD-XD/User-Agent
+git clone --depth 1 https://github.com/BINOD-XD/User-Agent-Pro
 ```
 
 ### How to use User-Agent
